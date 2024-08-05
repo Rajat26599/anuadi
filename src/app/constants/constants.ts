@@ -1,0 +1,1 @@
+export const weddingTime: Date = new Date( 2025, 1, 17 );
